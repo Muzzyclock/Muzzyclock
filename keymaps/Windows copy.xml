@@ -1,0 +1,8 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Graph.ApplyCurrentLayout" />
+</keymap>
